@@ -1,0 +1,28 @@
+name: 'B & A Photographers'
+favicon: null
+layout_spectrum: 0.8122214006725699
+typography_spectrum: 0.5376819258090109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.14255887339822948
+  lightness: 0.9223557538352907
+  saturation: 0.10516347107477486
+  rhythmicContrast: 0.6323454063385725
+purpose: []
