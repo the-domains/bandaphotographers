@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Revamp your business with new images. Get one of our photographers to update your product photography to let your company shine to its full potential. '
-datePublished: '2016-03-02T13:01:51.140Z'
-dateModified: '2016-03-02T12:58:58.188Z'
+datePublished: '2016-03-02T13:21:20.206Z'
+dateModified: '2016-03-02T13:20:55.806Z'
 title: Commercial photographs
 author: []
 sourcePath: _posts/2016-03-02-commercial-photographs.md
@@ -23,3 +23,4 @@ _type: WebPage
 
 ---
 Revamp your business with new images. Get one of our photographers to update your product photography to let your company shine to its full potential. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ce07a4-aa92-48b4-a7d7-9f6b76bc3ed1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/921f286f-dade-4306-93c1-2f520e077ba4.jpg)
