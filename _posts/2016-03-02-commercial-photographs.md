@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: commercial images
-datePublished: '2016-03-02T12:55:40.226Z'
-dateModified: '2016-03-02T12:55:33.712Z'
+datePublished: '2016-03-02T12:56:31.560Z'
+dateModified: '2016-03-02T12:55:54.663Z'
 title: Commercial photographs
 author: []
 sourcePath: _posts/2016-03-02-commercial-photographs.md
