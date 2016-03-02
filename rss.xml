@@ -4,7 +4,7 @@
         <description><![CDATA[B & A Photographers]]></description>
         <link>https://thegrid.ai/bandaphotographers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 12:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 12:43:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bandaphotographers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Commercial photographs]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/bandaphotographers/weddings/index.html</link>
             <guid isPermaLink="false">ba1c70a9-1a06-4d58-b43f-8892c9ade073</guid>
             <pubDate>Wed, 02 Mar 2016 12:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<article><h1>About Us</h1><p>Hi - beckie and amie</p></article>]]></description>
-            <link>https://thegrid.ai/bandaphotographers/about-us/index.html</link>
-            <guid isPermaLink="false">dc88287b-14f3-4a82-87bb-e30dfa1cc3e9</guid>
-            <pubDate>Wed, 02 Mar 2016 12:15:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
