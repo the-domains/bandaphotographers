@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: commercial images
-datePublished: '2016-03-02T12:56:31.560Z'
-dateModified: '2016-03-02T12:55:54.663Z'
+description: 'Revamp your business with new images. Get one of our photographers to update your product photography to let your company shine to its full potential. '
+datePublished: '2016-03-02T13:01:51.140Z'
+dateModified: '2016-03-02T12:58:58.188Z'
 title: Commercial photographs
 author: []
 sourcePath: _posts/2016-03-02-commercial-photographs.md
