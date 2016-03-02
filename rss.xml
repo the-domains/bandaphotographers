@@ -4,7 +4,7 @@
         <description><![CDATA[B & A Photographers]]></description>
         <link>https://thegrid.ai/bandaphotographers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 12:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 12:37:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bandaphotographers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Commercial photographs]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/bandaphotographers/about-us/index.html</link>
             <guid isPermaLink="false">dc88287b-14f3-4a82-87bb-e30dfa1cc3e9</guid>
             <pubDate>Wed, 02 Mar 2016 12:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/876b56d2-bee6-40d0-873e-e9a5c8009792.jpg">]]></description>
-            <link>https://thegrid.ai/bandaphotographers/66dc2918-6f34-4036-afb6-8e66231b4e1c/index.html</link>
-            <guid isPermaLink="false">66dc2918-6f34-4036-afb6-8e66231b4e1c</guid>
-            <pubDate>Wed, 02 Mar 2016 12:07:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
